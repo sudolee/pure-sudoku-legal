@@ -1,15 +1,15 @@
 # Terms of Use / EULA
 
-*Effective date: 2026-11-21*  
-*App: Pure Sudoku (Pure Sudoku: 9 Logic Puzzles)*
+*Effective date: 2026-11-23*  
+*App: Pure Sudoku: Variants & Coach*
 
 By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App. Privacy practices are described in our [Privacy Policy](privacy.md).
 
 ### 1. The service
-Pure Sudoku is a sudoku game: classic grids, variants, hints, lessons, statistics, achievements, and challenges you start with a code or a date. You do not need an account. On iPhone, iPad, and Mac, finished games, achievements, and a few settings can sync through your own iCloud account.
+Pure Sudoku: Variants & Coach is a sudoku game: classic grids, variants, hints, a coach for technique practice, statistics, achievements, and challenges you start with a code or a date. You do not need an account. On iPhone, iPad, and Mac, finished games, achievements, and a few settings can sync through your own iCloud account.
 
-### 2. Pure Sudoku Pro
-**Pure Sudoku Pro** is a one-time **Lifetime** purchase. There is no subscription and no free trial.
+### 2. Pro
+**Pro** is a one-time **Lifetime** purchase for Pure Sudoku: Variants & Coach. There is no subscription and no free trial.
 
 Pro unlocks the harder puzzles:
 
@@ -21,7 +21,7 @@ These stay free:
 - Easy, on every variant and on classic.
 - Classic 4×4 and 6×6 at every difficulty.
 
-If you bought the App as a paid download before it became free, that purchase remains Pro on the Apple ID that bought it. Restore from Settings on a later install.
+If you bought the App as a paid download before it became free, when it was named Pure Sudoku: 9 Logic Puzzles, that purchase remains Pro on the Apple ID that bought it. Restore from Settings on a later install.
 
 Prices may change. The amount charged is what the App Store, Mac App Store, or Google Play, and the App, show at purchase. After you confirm, payment is charged to your Apple ID or Google account. Pro is sold on iPhone, iPad, Mac, and Android.
 
@@ -49,4 +49,4 @@ To the fullest extent permitted by law, the developer is not liable for indirect
 - **Email:** desoxydate@gmail.com
 
 ### 8. Related
-- [Privacy Policy (English)](privacy.md)
+- [Privacy Policy](privacy.md)
